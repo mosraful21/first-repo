@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    border: 5px inset gray;
+    border-radius: 30px;
+    background-color: gray;
+}
+
+.name{
+    color: lightblue;
+}
+
+p{
+    text-align: justify;
+}
